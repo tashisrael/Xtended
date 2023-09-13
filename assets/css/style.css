@@ -35,6 +35,15 @@
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
   --opal: hsl(180, 20%, 62%);
+  --white-1: hsl(0, 0%, 100%);
+  --red-crayola: hsl(341, 100%, 49%);
+  --white-2: hsl(0, 14%, 98%);
+  
+    /**
+   * border radius
+   */
+  --radius-5: 5px;
+
 
   /**
    * typography
