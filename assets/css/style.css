@@ -631,7 +631,7 @@ button, a { transition: var(--transition); }
 
 .service-card1 {
   position: relative;
-  background: var(--white-2);
+  background: var(--cultured-1);
   text-align: center;
   padding: 20px 30px;
   box-shadow: var(--shadow-2);
@@ -895,7 +895,7 @@ button, a { transition: var(--transition); }
 \*-----------------------------------*/
 
 .features {
-  background: var(--cultured-2);
+  background: var(--cultured-1);
   padding-block: var(--section-padding);
 }
 
@@ -975,7 +975,9 @@ button, a { transition: var(--transition); }
   #BLOG
 \*-----------------------------------*/
 
-.blog { padding-block: var(--section-padding); }
+.blog { 
+  padding-block: var(--section-padding); 
+  background: var(--cultured-2);}
 
 .blog-card { box-shadow: var(--shadow-2); }
 
