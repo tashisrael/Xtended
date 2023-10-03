@@ -1116,7 +1116,7 @@ button, a { transition: var(--transition); }
   padding: 20px;
   border-radius: var(--radius-2);
   margin-block-end: 30px;
-  box-shadow: var(--shadow-3);
+  box-shadow: var(--shadow-1);
 }
 
 .input-field {
@@ -1181,7 +1181,7 @@ textarea.input-field {
   background-color: var(--white-1);
   padding: 20px;
   border-radius: var(--radius-2);
-  box-shadow: var(--shadow-3);
+  box-shadow: var(--shadow-1);
   display: flex;
   align-items: flex-start;
   gap: 15px;
@@ -1209,6 +1209,9 @@ textarea.input-field {
 }
 
 .contact-card .card-link:is(:hover, :focus) { color: var(--red-crayola); }
+
+
+
 
 
 
